@@ -3,6 +3,6 @@
 </p>
 
 
-<h1 align="center">Ryn Stewart</h1>
+<h1 align="center">Ryn Stewart 🦊</h1>
 
-<h4 align="center">Artist and developer in Dallas, TX.</h4>
+<h4 align="center">Artist and developer in Dallas, TX. 🚀</h4>
