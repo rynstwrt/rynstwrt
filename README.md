@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/headshot2.png" alt="Ryn Stewart headshot" width="50%"/>
+<img src="assets/headshot2.png" alt="Ryn Stewart headshot" width="20%"/>
 </p>
 
 
